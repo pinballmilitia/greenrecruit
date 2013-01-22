@@ -1,1 +1,6 @@
-/Recruit/nbproject/private/
+bin/*
+.metadata
+.settings
+.classpath
+.project
+.DS_Store
